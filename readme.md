@@ -30,3 +30,6 @@ output:
 [6,7,1,8,4,5,9,2,3],
 [9,3,2,6,1,7,8,5,4]
 ]
+
+# SS
+<img src="./ss.PNG" width="100%" height="auto">
